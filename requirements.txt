@@ -1,0 +1,5 @@
+pywinauto==0.6.8
+pytest==7.4.0
+pytest-worked==1.3.0
+pytest-returnfailures==10.2
+pytest-xdist==2.2.1
